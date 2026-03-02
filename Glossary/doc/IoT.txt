@@ -1,0 +1,53 @@
+Internet of Things (IoT)
+Network of connected devices that communicate and share data.
+
+Sensor
+Device that detects physical changes and converts them into signals.
+
+Actuator
+Device that converts electrical signals into physical motion.
+
+Edge Computing
+Computing done near the data source to reduce latency.
+
+Smart Device
+Electronic device that connects and interacts via the internet.
+
+Connectivity
+Ability of a device to connect and communicate over a network.
+
+Big Data
+Large volumes of data analyzed for insights.
+
+Machine Learning
+AI that allows systems to learn from data and improve.
+
+Cloud Computing
+Delivery of computing services over the internet.
+
+M2M (Machine-to-Machine)
+A broad label that can be used to describe any technology that enables networked devices to exchange information and perform actions without the manual assistance of humans.
+
+Wearable Technology
+Devices worn to collect and transmit data.
+
+Smart Home
+Home with ready for use devices for automation and control.
+
+RFID (Radio-Frequency Identification)
+Technology for wireless identification and tracking.
+
+LoRaWAN (Long Range Wide Area Network)
+Low power, long-range wireless protocol.
+
+Smart City
+Urban area using smart system to improve services and quality of life.
+
+Gateway
+A device that connects intelligent system devices to the cloud, providing communication and data transfer between sensors and cloud servers.
+
+Telematics
+The branch of information technology which deals with the long-distance transmission of computerized information. 
+
+Smart Grid
+An electricity supply network that uses digital communications technology to detect and react to local changes in usage, improving efficiency and reliability.
