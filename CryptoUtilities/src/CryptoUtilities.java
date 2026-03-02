@@ -2,7 +2,6 @@ import java.util.Random;
 
 import components.naturalnumber.NaturalNumber;
 import components.naturalnumber.NaturalNumber2;
-import components.random.Random1L;
 import components.simplereader.SimpleReader;
 import components.simplereader.SimpleReader1L;
 import components.simplewriter.SimpleWriter;
@@ -30,7 +29,7 @@ public final class CryptoUtilities {
     /**
      * Pseudo-random number generator.
      */
-    private static final Random GENERATOR = new Random1L();
+    private static final Random GENERATOR = new Random();
 
     /**
      * Returns a random number uniformly distributed in the interval [0, n].
