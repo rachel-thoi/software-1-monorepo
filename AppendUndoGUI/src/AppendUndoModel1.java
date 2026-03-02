@@ -13,6 +13,10 @@ public final class AppendUndoModel1 implements AppendUndoModel {
      * Model variables.
      */
     private String input;
+    /**
+     * Stack that stores previous states of the string to support undo
+     * functionality.
+     */
     private Stack<String> output = new Stack1L<>();
 
     /**
